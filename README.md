@@ -1,4 +1,4 @@
-# Buttle-Ship
+# Battle-Ship
 Battle Ship game coded in Java
 
 There is no big bug so far in my game, this one thing may happen sometimes:
